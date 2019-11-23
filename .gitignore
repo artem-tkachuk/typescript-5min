@@ -1,2 +1,5 @@
 # Project exclude paths
 /greeter.js
+node_modules/
+/.idea
+/node_modules
